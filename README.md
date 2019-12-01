@@ -1,1 +1,1 @@
-Meno drop down responsivo para usar em projetos diversos.
+Meno drop down responsivo para usar em projetos diversos. Desenvolvido apenas com HTML e CSS
